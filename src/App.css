@@ -5,6 +5,7 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  /* color: aliceblue; */
 }
 
 .NavBar {
@@ -15,6 +16,7 @@
   padding: 10px;
   border-radius: 8px;
   height: 100%;
+  color: aliceblue;
 }
 
 .NavDiv {
@@ -69,6 +71,7 @@
   margin: 10px;
   padding: 5px;
   background-color: rgb(43, 48, 54);
+  color: wheat;
 }
 
 .CartCardInfo {
